@@ -3434,7 +3434,7 @@ a.post-thumbnail:hover {
 	}
 }
 
-@media screen and (min-width: 783px) {
+@media screen and (min-width: 1008px) {
 	.site-title {
 		/* Search-toggle width = 48px */
 		max-width: -webkit-calc(100% - 48px);
@@ -3595,7 +3595,7 @@ a.post-thumbnail:hover {
 	}
 }
 
-@media screen and (min-width: 810px) {
+@media screen and (min-width: 1008px) {
 	.attachment .entry-attachment .attachment {
 		margin-right: -168px;
 		margin-left: -168px;
@@ -3646,7 +3646,7 @@ a.post-thumbnail:hover {
 	}
 }
 
-@media screen and (min-width: 846px) {
+@media screen and (min-width: 1008px) {
 	.content-area,
 	.content-sidebar {
 		padding-top: 72px;
